@@ -1,0 +1,12 @@
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.runtimeconfig.json
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.runtimeconfig.dev.json
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csprojAssemblyReference.cache
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Aleksandar\Development\Projects\net-test\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.genruntimeconfig.cache
